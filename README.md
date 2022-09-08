@@ -48,7 +48,7 @@ If you bike brakes has been feeling a little extra squishy lately or your brake 
 * Then put the stopper back into the bleed cup and remove the bleed cup from the lever. 
 
 ### 8. Clean and reattach the brake pads
-* WIPE OFF excess oil from the caliper to prevent contamination of the brake pads
+* **WIPE OFF any excess oil** from the caliper to prevent contamination of the brake pads
 * Then reassemble the pads onto the caliper. 
 
 ### 9. Go Shred Some Trails Now
